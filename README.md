@@ -20,7 +20,7 @@
 
 ### 1. Клонируйте репозиторий
 
-git clone https://github.com/USERNAME/REPO_NAME.git
+git clone https://github.com/PIPup57/Practica
 cd REPO_NAME
 ### 2. Установите зависимости
 
